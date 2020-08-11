@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          test screen shot workflow #1
+          test screen shot workflow #2
         </p>
         <p className={styles.description}>
           Get started by editing{' '}
